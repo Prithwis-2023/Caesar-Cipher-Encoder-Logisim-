@@ -1,5 +1,7 @@
 # Final Project Proposal: Caesar Cipher Encoder
-![image](https://github.com/user-attachments/assets/c70883c4-b088-4e89-b416-35cf9ed448ce)
+Inspired by the Past       |  To Transform the Future
+:-------------------------:|:-------------------------:
+![image](https://github.com/user-attachments/assets/df71db2f-1572-45c8-9943-a1e5dedede5d)  |  ![ChatGPT Image May 17, 2025, 01_35_56 AM](https://github.com/user-attachments/assets/7a2d156f-c05d-4bde-b1c1-b5abf4592e9b)
 
 Encryption has been at the core of secure communication since medieval times, driven by the need to protect sensitive information—especially in military contexts—from interception and interpretation by adversaries. My project, the **Caesar Cipher Encoder**, is a minimalistic yet functional recreation of one of the earliest known encryption techniques.
 

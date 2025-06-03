@@ -44,3 +44,6 @@ M        7            T              84
 ## Expected Results
 - A fully functional Caesar Cipher Encoder capable of simulating the encryption of any uppercase letter using any configurable key.
 - A modular design that can be reused or expanded to include decryption, support for lowercase letters, or full strings in future work.
+
+![image](https://github.com/user-attachments/assets/8b329dd0-1dda-4005-b0ac-68ef118b9485)
+

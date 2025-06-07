@@ -1,4 +1,4 @@
-# Final Project Proposal: Caesar Cipher Encoder
+# Final Project: Caesar Cipher Encoder
 Inspired by the Past       |  To Transform the Future
 :-------------------------:|:-------------------------:
 ![image](https://github.com/user-attachments/assets/df71db2f-1572-45c8-9943-a1e5dedede5d)  |  ![ChatGPT Image May 17, 2025, 01_35_56 AM](https://github.com/user-attachments/assets/7a2d156f-c05d-4bde-b1c1-b5abf4592e9b)
